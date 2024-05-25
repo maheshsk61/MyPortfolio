@@ -1,0 +1,12 @@
+@media screen and (max-width:576px) {
+    .navbar {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .navbar-brand {
+        margin-left: auto;
+        margin-right: auto;
+    }
+}

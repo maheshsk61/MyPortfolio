@@ -1,0 +1,16 @@
+.Resume {
+    color: white;
+    margin-top: 50px;
+    margin-left: 170px;
+}
+
+.Resume a {
+    color: white;
+}
+
+@media screen and (max-width:576px) {
+    .Resume {
+        margin-left: 0;
+        text-align: center;
+    }
+}

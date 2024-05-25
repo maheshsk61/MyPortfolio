@@ -1,0 +1,16 @@
+.Projects {
+    color: white;
+    margin-top: 50px;
+    margin-left: 170px;
+}
+
+.Projects a {
+    color: white;
+}
+
+@media screen and (max-width:576px) {
+    .Projects {
+        margin-left: 0;
+        text-align: center;
+    }
+}

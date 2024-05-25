@@ -1,0 +1,16 @@
+.Github {
+    color: white;
+    margin-top: 50px;
+    margin-left: 170px;
+}
+
+.Github a {
+    color: white;
+}
+
+@media screen and (max-width:576px) {
+    .Github {
+        margin-left: 0;
+        text-align: center;
+    }
+}

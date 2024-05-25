@@ -1,0 +1,17 @@
+.Skills {
+    color: white;
+    margin-top: 50px;
+    margin-left: 170px;
+}
+
+@media screen and (max-width:576px) {
+    .Skills {
+        margin-left: 0;
+        text-align: center;
+    }
+
+    .Skills ul {
+        display: flex;
+        justify-content: center;
+    }
+}
