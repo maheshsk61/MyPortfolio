@@ -1,4 +1,5 @@
 import Navbar from "../Navbar/Navbar"
+import Picture from "../Picture/Picture"
 import About from "../About/About"
 import Skills from "../Skills/Skills"
 import Contact from "../Contact/Contact"
@@ -10,6 +11,7 @@ export default function Home() {
         <div className="row">
             <div className="col-xs-12" id="home">
                 <Navbar />
+                <Picture />
                 <About />
                 <Skills />
                 <Resume />

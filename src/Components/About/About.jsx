@@ -5,13 +5,12 @@ export default function About() {
         <div className='d-flex xl'>
             <div className="About" id="about">
                 <h1 className='text-info'>About Me</h1>
-                <h2>Hello, Its me Mahesh Babu.</h2>
-                <h6>I'm a Frontend Developer with nearly 2 years of experience in developing and enhancing the web applications.</h6>
-                <h6>Developed and Enhanced user-friendly web applications by implementing new features and functionalities according to project requirements, resulting in improved user engagement and satisfaction.</h6>
-            </div>
-            <div className="image">
-                {/* https://drive.google.com/file/d/168tPjpeKmODPswdmiIuYDgYYhsW_C91R/view?usp=sharing */}
-                <img src="https://drive.google.com/thumbnail?id=168tPjpeKmODPswdmiIuYDgYYhsW_C91R" alt="My_Photo" className='img-fluid' />
+                <h2>Hello there, I am Mahesh Babu.</h2>
+                <h4>Two years of Experience in developing responsive web application using React JS.
+                    Proficient in HTML, CSS, Javascript with a strong understanding of modern web
+                    development techniques. Familiar with state management libraries such as Redux.
+                    Strong problem solving skills and then ability to learn quickly to adapt new
+                    technologies</h4>
             </div>
         </div>
     )
