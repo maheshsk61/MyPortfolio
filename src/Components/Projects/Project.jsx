@@ -2,7 +2,7 @@ import './Project.css'
 export default function Project() {
     return (
         <div className="Projects" id="projects">
-            <h1 className='text-info'>Projects</h1>
+            <h1 style={{color:'darkgray'}}>Projects</h1>
             <div className="Project1">
                 <h1 className='text-warning'>#1 Ecommerce Application</h1>
                 <ul>

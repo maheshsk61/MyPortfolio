@@ -4,9 +4,4 @@
         flex-direction: column;
         text-align: center;
     }
-
-    .navbar-brand {
-        margin-left: auto;
-        margin-right: auto;
-    }
 }

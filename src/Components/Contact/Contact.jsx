@@ -12,7 +12,7 @@ const contact = [
 export default function Contact() {
     return (
         <div className="Contact" id="contact">
-            <h1 className='text-info'>Contact</h1>
+            <h1 style={{color:'darkgray'}}>Contact</h1>
             {
                 contact.map((contact, index) => <ul className="list-unstyled" key={index}>
                     <li><EmailIcon /> Email : <a href={`mailto:${contact.email}`} style={{ textDecoration: 'none' }}>{contact.email}</a></li>

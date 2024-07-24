@@ -25,7 +25,7 @@ const skills = [
 export default function Skills() {
     return (
         <div className="Skills" id='skills'>
-            <h1 className='text-info'>Skills</h1>
+            <h1 style={{color:'darkgray'}}>Skills</h1>
             {
                 skills.map((skill, index) => {
                     return (

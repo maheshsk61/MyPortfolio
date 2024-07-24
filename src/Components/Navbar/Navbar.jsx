@@ -2,8 +2,8 @@ import React from 'react';
 import './Navbar.css';
 export default function Navbar() {
     return (
-        <nav className='navbar navbar-expand-md bg-info p-2'>
-            <a href='/' style={{ textDecoration: 'none', fontSize: '25px' }} className='navbar-brand'>Portfolio</a>
+        <nav className='navbar navbar-expand-md p-2' style={{backgroundColor:'gray'}}>
+            <a href='/' style={{ textDecoration: 'none', fontSize: '25px'}} className='text-dark'>Portfolio</a>
             <button className='navbar-toggler' type='button' data-bs-toggle='collapse' data-bs-target='#navid'>
                 <span className='navbar-toggler-icon'></span>
             </button>
