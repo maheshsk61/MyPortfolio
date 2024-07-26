@@ -12,7 +12,7 @@ export default function Project() {
                     <li>Utilized media queries and flexible layout techniques in bootstrap to adapt the layout and styling of the eCommerce web app to different screen sizes and resolutions.</li>
                     <li>Deployed the eCommerce web app on Netlify, leveraging its platform-as-a-service (PaaS) capabilities for seamless deployment and hosting.</li>
                 </ul>
-                <a href="https://6655ef64aa5ac615d1787f03--delicate-jelly-985f7b.netlify.app/" style={{ textDecoration: 'none' }} target='blank'>View the project</a>
+                <a href="https://delicate-faloodeh-6c561f.netlify.app/" style={{ textDecoration: 'none' }} target='blank'>View the project</a>
                 <br />
                 <a href="https://github.com/maheshsk61/EcommerceApp" style={{ textDecoration: 'none' }} target='blank'>Source code</a>
             </div>

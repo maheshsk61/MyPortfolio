@@ -1,7 +1,13 @@
-@media screen and (max-width:576px) {
-    .navbar {
-        display: flex;
-        flex-direction: column;
-        text-align: center;
-    }
+.navbar {
+  position: fixed;
+  z-index: 1000;
+  width: 100%;
+  top: 0;
+}
+@media screen and (max-width: 576px) {
+  .navbar {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+  }
 }
